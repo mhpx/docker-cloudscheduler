@@ -1,4 +1,4 @@
-
+# Dockerfile for CloudScheduler 
 FROM centos:6
 MAINTAINER Michael Paterson <mhp@uvic.ca>
 
